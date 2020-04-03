@@ -1,0 +1,25 @@
+$primary: #01b075;
+
+//button default
+$body-color: #fff;
+$link-hover-color: #019160;
+$btn-text-color: #ebf9f4;
+$btn-border-radius: 5px;
+$btn-border-width: 0;
+$btn-font-size: 13px;
+$btn-padding-x: 16px;
+$btn-padding-y: 10px;
+$btn-line-height: 16px;
+$btn-focus-box-shadow: 0px;
+$btn-focus-width: 0px;
+//end
+
+//btn-icon
+$btn-icon-color: #738aa2;
+$btn-icon-hover-color: #fff;
+
+//dropdown
+$dropdown-min-width: "auto";
+
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "./style.scss";
